@@ -1,6 +1,6 @@
 
 ## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/IAmSarthakVerma/IAmSarthakVerma/master/wave.gif" width="30px" height="30px">
-Hello, I’m Sarthak Verma. I am a Full Stack Developer with experience of over 7 years.
+I’m Sarthak Verma. I am a Full Stack Developer with experience of over 7 years.
 
 My journey from building my first application to getting my name listed as one of the authors of Flutter (An open-source project by Google) has been incredible.
 
