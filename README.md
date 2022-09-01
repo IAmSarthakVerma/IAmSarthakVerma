@@ -6,7 +6,7 @@ My journey from building my first application to getting my name listed as one o
 
 All this while I have gained enough knowledge to build fully functional and secure Mobile/Web Applications from Design to Deployment using the best practices.
 
-<a href="iamsarthakverma.github.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://iamsarthakverma.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 <a href="https://twitter.com/intent/follow?screen_name=IAmSarthakVerma"><img src="https://img.shields.io/badge/IAmSarthakVerma-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="mailto:hisarthakverma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
